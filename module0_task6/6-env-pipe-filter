@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $env | grep -i term
+echo $env 
+printev | grep -i term
