@@ -1,2 +1,2 @@
 #!/bin/bash
-printev | grep -i ".term?"
+printev | grep -i "term?"
