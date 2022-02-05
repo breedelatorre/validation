@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $env 
 printev | grep -i term
